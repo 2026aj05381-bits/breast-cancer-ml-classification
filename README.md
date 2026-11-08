@@ -75,13 +75,14 @@ app.py
 requirements.txt
 README.md
 test_data.csv
-ML_assignment_2.ipynb
+2026aj05381.ipynb
 model/
     logistic_regression.joblib
     decision_tree.joblib
     knn.joblib
     naive_bayes.joblib
     svm.joblib
-screenshots
+20206AJ05381_SCREENSHOTS.pdf
+
 ```
 
