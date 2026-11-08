@@ -1,6 +1,6 @@
 # Breast Cancer Classification — Machine Learning Assignment 2
 
-**BITS Pilani | M.Tech (AI & ML) | Machine Learning**
+**BITS Pilani WILP| M.Tech (AI & ML) | Machine Learning**
 
 ## a. Problem statement
 
