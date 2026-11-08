@@ -82,7 +82,6 @@ model/
     knn.joblib
     naive_bayes.joblib
     svm.joblib
-20206AJ05381_SCREENSHOTS.pdf
 
 ```
 
