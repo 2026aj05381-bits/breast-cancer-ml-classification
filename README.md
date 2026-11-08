@@ -51,7 +51,7 @@ These observations describe this dataset and test split; they do not establish g
 
 The app supports choosing one of five previously trained models, uploading a test CSV (or Excel file), viewing predictions, and inspecting evaluation metrics and a confusion matrix or classification report. A bundled sample `test_data.csv` is also provided.
 
-**Live app:** 
+**Live app:** https://breast-cancer-ml-classification-vv9hzzjitphkreb5yoggr9.streamlit.app/
 ### Run locally
 
 Install the project dependencies:
